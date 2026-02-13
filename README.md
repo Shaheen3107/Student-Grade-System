@@ -27,7 +27,7 @@ This project allows you to **add, view, update, delete, and search students**, c
   - `D`  : 50–59%
   - `F`  : Below 50%
 
-🛠 Technologies Used
+🛠 **Technologies Used**
 
 Python
 Core concepts:
@@ -36,8 +36,6 @@ Core concepts:
 3. Loops
 4. Conditional statements
 5. User input handling
-
----
 
 ## How to Run
 
@@ -48,14 +46,14 @@ Core concepts:
     python student_grade_system.py
 4. Use the menu to interact with the system
 
-📂 Project Type
+📂 **Project Type**
 
 Python Mini Project | Beginner to Intermediate
 
-💡 Learning Outcomes
+💡 **Learning Outcomes**
+1.Practical use of Python data structures
+2.Building a CRUD-based application
+3.Writing modular and readable code
+4.Handling user input and validations
 
-Practical use of Python data structures
-Building a CRUD-based application
-Writing modular and readable code
-Handling user input and validations
 
